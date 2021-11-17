@@ -40,5 +40,5 @@
 
 © Created by Marwan Mohamed Taha under supervision of udacity.
 
-<img width = "250"  alt="Udacity Logo" src="//s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg">
+<img width = "250"  alt="Udacity Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Udacity_logo.svg/1280px-Udacity_logo.svg.png">
 
